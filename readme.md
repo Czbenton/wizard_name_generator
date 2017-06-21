@@ -9,3 +9,6 @@ var randomName = require("wizard_name_generator");
 var myName = randomName.randomWizardName();
 console.log("myName: ", myName);
 ```
+## Github
+Feel free to submit additions/improvements!
+(https://github.com/Czbenton/wizard_name_generator)[See it here]
