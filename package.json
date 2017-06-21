@@ -1,6 +1,6 @@
 {
   "name": "wizard_name_generator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "simple name generator",
   "main": "app.js",
   "scripts": {
