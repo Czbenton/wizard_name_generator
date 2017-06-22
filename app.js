@@ -1,5 +1,10 @@
 //21986 length of names
 //410 titles
+module.exports.randomWizardName = randomWizardName;
+
+function randomNum(min, max) {
+  return Math.floor(Math.random() * (max - min + 1) + min);
+}
 
 function randomWizardName() {
   var newName = names[randomNum(0, 21986)] + " " + titles[randomNum(0, 410)];
